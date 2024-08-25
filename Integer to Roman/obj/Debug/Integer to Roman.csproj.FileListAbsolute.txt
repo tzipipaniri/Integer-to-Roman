@@ -1,0 +1,7 @@
+C:\C#\Integer to Roman\Integer to Roman\bin\Debug\Integer to Roman.exe.config
+C:\C#\Integer to Roman\Integer to Roman\bin\Debug\Integer to Roman.exe
+C:\C#\Integer to Roman\Integer to Roman\bin\Debug\Integer to Roman.pdb
+C:\C#\Integer to Roman\Integer to Roman\obj\Debug\Integer to Roman.csproj.AssemblyReference.cache
+C:\C#\Integer to Roman\Integer to Roman\obj\Debug\Integer to Roman.csproj.CoreCompileInputs.cache
+C:\C#\Integer to Roman\Integer to Roman\obj\Debug\Integer to Roman.exe
+C:\C#\Integer to Roman\Integer to Roman\obj\Debug\Integer to Roman.pdb
